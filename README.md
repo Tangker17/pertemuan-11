@@ -59,7 +59,7 @@ Berikut outputnya
  ## Tugas Praktikum
  * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
- ![hasil](gambar/soalpraktikum.PNG)
+ ![hasil](soalpraktikum.PNG)
  
 * Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
@@ -166,7 +166,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](hasilmenu.png)
+![hasil](hasilmenu.PNG)
    
     Terdapat 5 Pilihan menu, yaitu :
 
@@ -179,7 +179,7 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](gambar/lihatdata.PNG)
+![hasil](lihatdata.PNG)
 
 * Menambahkan Data <br>
 
@@ -194,7 +194,7 @@ Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
 
-![hasil](hapusdata.png)
+![hasil](hapusdata.PNG)
 
 ## FLOWCHART
 
