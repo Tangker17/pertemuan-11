@@ -166,7 +166,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](hasilmenu.PNG)
+![hasil](hasilmenu.png)
    
     Terdapat 5 Pilihan menu, yaitu :
 
@@ -179,7 +179,7 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](lihatdata.PNG)
+![hasil](lihatdata.png)
 
 * Menambahkan Data <br>
 
@@ -188,13 +188,13 @@ Inilah tampilan fitur Lihat Data :
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
 Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama ramon , Maka akan muncul tampilan seperti ini :
-![hasil](ubahdata.PNG)
+![hasil](ubahdata.png)
 
 * Fitur Hapus Data Nilai Mahasiswa <br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama rizkyyz
 
-![hasil](hapusdata.PNG)
+![hasil](hapusdata.png)
 
 ## FLOWCHART
 
